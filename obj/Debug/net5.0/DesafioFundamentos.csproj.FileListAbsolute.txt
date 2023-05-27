@@ -1,0 +1,16 @@
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/obj/Debug/net5.0/DesafioFundamentos.csproj.AssemblyReference.cache
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/obj/Debug/net5.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/obj/Debug/net5.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/obj/Debug/net5.0/DesafioFundamentos.AssemblyInfo.cs
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/obj/Debug/net5.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/bin/Debug/net5.0/DesafioFundamentos
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/bin/Debug/net5.0/DesafioFundamentos.deps.json
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/bin/Debug/net5.0/DesafioFundamentos.runtimeconfig.json
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/bin/Debug/net5.0/DesafioFundamentos.runtimeconfig.dev.json
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/bin/Debug/net5.0/DesafioFundamentos.dll
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/bin/Debug/net5.0/ref/DesafioFundamentos.dll
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/bin/Debug/net5.0/DesafioFundamentos.pdb
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/obj/Debug/net5.0/DesafioFundamentos.dll
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/obj/Debug/net5.0/ref/DesafioFundamentos.dll
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/obj/Debug/net5.0/DesafioFundamentos.pdb
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentos/obj/Debug/net5.0/DesafioFundamentos.genruntimeconfig.cache
